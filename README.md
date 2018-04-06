@@ -23,3 +23,8 @@ Used just one small breadboard to create simple game
 ## Todo
 
 Add buzzer to play sounds
+
+## Images
+
+![SCHEME](https://github.com/netkot/Tiny-Tetris/blob/master/breadboard_nano_tetris_02.jpg)
+![SCHEME](https://github.com/netkot/Tiny-Tetris/blob/master/breadboard_nano_tetris_03.jpg)
