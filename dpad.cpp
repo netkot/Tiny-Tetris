@@ -22,11 +22,11 @@
 // as seen here http://fritzing.org/projects/arduino-5-buttons-keypad
 // put your resistor calibration values here
 const int dpad[5][2] = {
-  {460, 480}, //KEY_MIDDLE 0
-  {122, 234}, //KEY_LEFT 1
-  {700, 750}, //KEY_RIGHT 2
-  {-1,   70}, //KEY_DOWN 3
-  {260, 350}  //KEY_ROTATE 4
+  {-2, -1}, //KEY_MIDDLE 0
+  {660, 690}, //KEY_LEFT 1
+  {430, 460}, //KEY_RIGHT 2
+  {700, 730}, //KEY_DOWN 3
+  {540, 570}  //KEY_ROTATE 4
 };
 
 static int dpadwarp[5] = { 0,0,0,0,0 };
